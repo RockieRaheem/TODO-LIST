@@ -1,1 +1,2 @@
-console.log('These are trash files')
+
+console.log('Hello Javascript programmers');
